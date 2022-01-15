@@ -34,6 +34,7 @@ timeConversion(s: "12:00:00AM")
 timeConversion(s: "10:05:45PM")
 timeConversion(s: "02:05:45PM")
 timeConversion(s: "05:05:45AM")
+timeConversion(s: "08:05:45AM")
 timeConversion(s: "12:05:45PM")
 timeConversion(s: "07:05:45PM")
 
