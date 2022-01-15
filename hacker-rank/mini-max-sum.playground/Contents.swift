@@ -32,7 +32,6 @@ func miniMaxSum(arr: [Int]) -> Void {
   var i = 0
   
   for element in arr {
-    
     if i < arr.count - 1 {
       if element > arr[i + 1] && element > maxValue {
         maxValue = element
@@ -43,9 +42,7 @@ func miniMaxSum(arr: [Int]) -> Void {
         }
       }
     }
-    
     i += 1
-    
   }
   
   print(maxValue, minValue)
