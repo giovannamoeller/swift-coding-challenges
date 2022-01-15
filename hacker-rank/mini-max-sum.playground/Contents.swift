@@ -25,16 +25,14 @@ func miniMaxSum(arr: [Int]) -> Void {
   }
   
   print(maxSum, minSum)
-  
-  // MARK: Extra - Min and Max Values from an Array
-  
+    
   var maxValue = 0
   var minValue = Int.max
   
   var i = 0
   
   for element in arr {
-        
+    
     if i < arr.count - 1 {
       if element > arr[i + 1] && element > maxValue {
         maxValue = element
