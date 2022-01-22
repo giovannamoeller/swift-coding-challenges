@@ -1,6 +1,6 @@
 # Swift Coding Challenge
 
-<img src="https://images.squarespace-cdn.com/content/v1/558def25e4b0fc259f066636/1533603429394-T8E8IQCL03OEREG2ZQMN/Swift_logo.png?format=1000w" width="300">
+<img src="https://images.squarespace-cdn.com/content/v1/558def25e4b0fc259f066636/1533603429394-T8E8IQCL03OEREG2ZQMN/Swift_logo.png?format=1000w" width="150">
 
 This repository contains several challenges related to algorithms and data structure, all performed with SWIFT.
 
